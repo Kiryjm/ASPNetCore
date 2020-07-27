@@ -27,9 +27,9 @@ namespace ClientWPF
             InitializeComponent();
         }
 
-        private async void btnShow_Click(object sender, RoutedEventArgs e)
-        {
-            Card project = await GetAPIAsync("https://localhost:44356/api/cards/1");
-        }
+        //private async void btnShow_Click(object sender, RoutedEventArgs e)
+        //{
+        //    Card project = await GetAPIAsync("https://localhost:44356/api/cards/1");
+        //}
     }
 }
