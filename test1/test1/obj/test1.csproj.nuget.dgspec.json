@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\root\\C#\\ASP Net Core\\test1\\test1\\test1.csproj": {}
+    "G:\\root\\C#\\ASPNetCore\\test1\\test1\\test1.csproj": {}
   },
   "projects": {
-    "G:\\root\\C#\\ASP Net Core\\test1\\test1\\test1.csproj": {
+    "G:\\root\\C#\\ASPNetCore\\test1\\test1\\test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\root\\C#\\ASP Net Core\\test1\\test1\\test1.csproj",
+        "projectUniqueName": "G:\\root\\C#\\ASPNetCore\\test1\\test1\\test1.csproj",
         "projectName": "test1",
-        "projectPath": "G:\\root\\C#\\ASP Net Core\\test1\\test1\\test1.csproj",
+        "projectPath": "G:\\root\\C#\\ASPNetCore\\test1\\test1\\test1.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "G:\\root\\C#\\ASP Net Core\\test1\\test1\\obj\\",
+        "outputPath": "G:\\root\\C#\\ASPNetCore\\test1\\test1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
